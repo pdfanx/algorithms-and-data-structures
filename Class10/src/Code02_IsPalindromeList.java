@@ -107,4 +107,94 @@ public class Code02_IsPalindromeList {
         }
         return result;
     }
+
+    public static void printLinkedList(Node node)
+    {
+        System.out.print("Linked List: ");
+        while(node!=null)
+        {
+            System.out.print(node.value + " ");
+            node = node.next;
+        }
+        System.out.println();
+    }
+
+    public static void main(String[] args)
+    {
+        Node head = null;
+        printLinkedList(head);
+        System.out.print(isPalindrome1(head) + " | ");
+        System.out.print(isPalindrome2(head) + " | ");
+        System.out.print(isPalindrome3(head) + " | ");
+        printLinkedList(head);
+        System.out.print("=========================");
+
+        head = new Node(1);
+        printLinkedList(head);
+        System.out.print(isPalindrome1(head) + " | ");
+        System.out.print(isPalindrome2(head) + " | ");
+        System.out.print(isPalindrome3(head) + " | ");
+        printLinkedList(head);
+        System.out.print("=========================");
+
+        head = new Node(1);
+        head.next = new Node(2);
+        printLinkedList(head);
+        System.out.print(isPalindrome1(head) + " | ");
+        System.out.print(isPalindrome2(head) + " | ");
+        System.out.print(isPalindrome3(head) + " | ");
+        printLinkedList(head);
+        System.out.print("=========================");
+
+        head = new Node(1);
+        head.next = new Node(1);
+        printLinkedList(head);
+        System.out.print(isPalindrome1(head) + " | ");
+        System.out.print(isPalindrome2(head) + " | ");
+        System.out.print(isPalindrome3(head) + " | ");
+        printLinkedList(head);
+        System.out.print("=========================");
+
+        head = new Node(1);
+        head.next = new Node(2);
+        head.next.next = new Node(3);
+        printLinkedList(head);
+        System.out.print(isPalindrome1(head) + " | ");
+        System.out.print(isPalindrome2(head) + " | ");
+        System.out.print(isPalindrome3(head) + " | ");
+        printLinkedList(head);
+        System.out.print("=========================");
+
+        head = new Node(1);
+        head.next = new Node(2);
+        head.next.next = new Node(1);
+        printLinkedList(head);
+        System.out.print(isPalindrome1(head) + " | ");
+        System.out.print(isPalindrome2(head) + " | ");
+        System.out.print(isPalindrome3(head) + " | ");
+        printLinkedList(head);
+        System.out.print("=========================");
+
+        head = new Node(1);
+        head.next = new Node(2);
+        head.next.next = new Node(3);
+        head.next.next.next = new Node(1);
+        printLinkedList(head);
+        System.out.print(isPalindrome1(head) + " | ");
+        System.out.print(isPalindrome2(head) + " | ");
+        System.out.print(isPalindrome3(head) + " | ");
+        printLinkedList(head);
+        System.out.print("=========================");
+
+        head = new Node(1);
+        head.next = new Node(2);
+        head.next.next = new Node(2);
+        head.next.next.next = new Node(1);
+        printLinkedList(head);
+        System.out.print(isPalindrome1(head) + " | ");
+        System.out.print(isPalindrome2(head) + " | ");
+        System.out.print(isPalindrome3(head) + " | ");
+        printLinkedList(head);
+        System.out.print("=========================");
+    }
 }
