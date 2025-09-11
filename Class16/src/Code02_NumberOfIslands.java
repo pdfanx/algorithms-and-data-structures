@@ -31,7 +31,7 @@ public class Code02_NumberOfIslands {
         infect(grid,i,j+1);
     }
 
-    // 2
+    // 2 HashMap实现并查集
     public static int numIslands2(char[][] grid) {
         Dot[][] dots = new Dot[grid.length][grid[0].length];
         List<Dot> dotList = new ArrayList<>();
@@ -162,6 +162,93 @@ public class Code02_NumberOfIslands {
         }
 
         public int sets(){return sizeMap.size();}
+    }
+
+    // 3 使用数组实现并查集
+
+    public static class UnionFind2
+    {
+        private int[] parent;
+        private int[] size;
+        private int[] help;
+        int col;
+        int sets;
+
+        public UnionFind2(char[][] board)
+        {
+            col = board[0].length;
+            sets = 0;
+
+            int row = board.length;
+            int len = row * col;
+
+            parent = new int[len];
+            size = new int[len];
+            help = new int[len];
+
+            for(int r = 0;r < len;r++)
+            {
+                for(int c = 0;c < col;c++)
+                {
+                    if(board[r][c] == '1')
+                    {
+                        int idx = index(r,c);
+                        parent[idx] = idx;
+                        size[idx] = 1;
+                        sets++;
+                    }
+                }
+            }
+        }
+
+        private int index(int i, int j)
+        {
+            return i * col + j;
+        }
+
+        private int find(int i)
+        {
+            int fi = 0;
+            while(i != parent[i])
+            {
+                help[fi++] = i;
+                i = parent[i];
+            }
+
+            for(fi--;fi>=0;fi--)
+            {
+                parent[help[fi]] = i;
+            }
+
+            return fi;
+        }
+
+        public void union(int r1, int c1, int r2, int c2)
+        {
+            int i1 = index(r1,c1);
+            int i2 = index(r2,c2);
+
+            int h1 = find(i1);
+            int h2 = find(i2);
+
+            if(h1 != h2)
+            {
+                if(size[h1] >= size[h2])
+                {
+                    parent[h2] = h1;
+                    size[h1] += size[h2];
+                }
+                else
+                {
+                    parent[h1] = h2;
+                    size[h2] += size[h1];
+                }
+
+                sets--;
+            }
+        }
+
+        public int sets(){return sets;}
     }
 
 
