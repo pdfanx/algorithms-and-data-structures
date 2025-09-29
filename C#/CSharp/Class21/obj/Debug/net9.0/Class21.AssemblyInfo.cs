@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Class20 - Dynamic Programming")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Class21")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1299e7bc42c32be5b7e4f53d4a62e7d7a5ef8982")]
-[assembly: System.Reflection.AssemblyProductAttribute("Class20 - Dynamic Programming")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Class20 - Dynamic Programming")]
+[assembly: System.Reflection.AssemblyProductAttribute("Class21")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Class21")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Class20 - Dynamic Programming/1.0.0": {
+        "runtime": {
+          "Class20 - Dynamic Programming.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class20 - Dynamic Programming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

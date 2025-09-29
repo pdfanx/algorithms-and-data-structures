@@ -1,0 +1,15 @@
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\bin\Debug\net9.0\Class20 - Dynamic Programming.exe
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\bin\Debug\net9.0\Class20 - Dynamic Programming.deps.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\bin\Debug\net9.0\Class20 - Dynamic Programming.runtimeconfig.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\bin\Debug\net9.0\Class20 - Dynamic Programming.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\bin\Debug\net9.0\Class20 - Dynamic Programming.pdb
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\obj\Debug\net9.0\Class20 - Dynamic Programming.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\obj\Debug\net9.0\Class20 - Dynamic Programming.AssemblyInfoInputs.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\obj\Debug\net9.0\Class20 - Dynamic Programming.AssemblyInfo.cs
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\obj\Debug\net9.0\Class20 - Dynamic Programming.csproj.CoreCompileInputs.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\obj\Debug\net9.0\Class20 - Dynamic Programming.sourcelink.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\obj\Debug\net9.0\Class20 - Dynamic Programming.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\obj\Debug\net9.0\refint\Class20 - Dynamic Programming.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\obj\Debug\net9.0\Class20 - Dynamic Programming.pdb
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\obj\Debug\net9.0\Class20 - Dynamic Programming.genruntimeconfig.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class20 - Dynamic Programming\obj\Debug\net9.0\ref\Class20 - Dynamic Programming.dll
