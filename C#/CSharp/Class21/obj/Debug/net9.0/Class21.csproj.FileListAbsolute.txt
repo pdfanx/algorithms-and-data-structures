@@ -1,0 +1,15 @@
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\bin\Debug\net9.0\Class21.exe
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\bin\Debug\net9.0\Class21.deps.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\bin\Debug\net9.0\Class21.runtimeconfig.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\bin\Debug\net9.0\Class21.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\bin\Debug\net9.0\Class21.pdb
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\obj\Debug\net9.0\Class21.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\obj\Debug\net9.0\Class21.AssemblyInfoInputs.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\obj\Debug\net9.0\Class21.AssemblyInfo.cs
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\obj\Debug\net9.0\Class21.csproj.CoreCompileInputs.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\obj\Debug\net9.0\Class21.sourcelink.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\obj\Debug\net9.0\Class21.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\obj\Debug\net9.0\refint\Class21.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\obj\Debug\net9.0\Class21.pdb
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\obj\Debug\net9.0\Class21.genruntimeconfig.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class21\obj\Debug\net9.0\ref\Class21.dll
