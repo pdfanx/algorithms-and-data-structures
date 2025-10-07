@@ -1,0 +1,15 @@
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\bin\Debug\net9.0\Class22.exe
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\bin\Debug\net9.0\Class22.deps.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\bin\Debug\net9.0\Class22.runtimeconfig.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\bin\Debug\net9.0\Class22.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\bin\Debug\net9.0\Class22.pdb
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\obj\Debug\net9.0\Class22.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\obj\Debug\net9.0\Class22.AssemblyInfoInputs.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\obj\Debug\net9.0\Class22.AssemblyInfo.cs
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\obj\Debug\net9.0\Class22.csproj.CoreCompileInputs.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\obj\Debug\net9.0\Class22.sourcelink.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\obj\Debug\net9.0\Class22.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\obj\Debug\net9.0\refint\Class22.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\obj\Debug\net9.0\Class22.pdb
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\obj\Debug\net9.0\Class22.genruntimeconfig.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class22\obj\Debug\net9.0\ref\Class22.dll
