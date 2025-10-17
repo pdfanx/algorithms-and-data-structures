@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class20 - Dynamic Programming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e53577f39009458845f1d1cbbafad3080de300b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bf38127aac173d7e190f8c61e24d23532cf6508")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class20 - Dynamic Programming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class20 - Dynamic Programming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\bin\Debug\net9.0\Class24.exe
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\bin\Debug\net9.0\Class24.deps.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\bin\Debug\net9.0\Class24.runtimeconfig.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\bin\Debug\net9.0\Class24.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\bin\Debug\net9.0\Class24.pdb
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\obj\Debug\net9.0\Class24.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\obj\Debug\net9.0\Class24.AssemblyInfoInputs.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\obj\Debug\net9.0\Class24.AssemblyInfo.cs
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\obj\Debug\net9.0\Class24.csproj.CoreCompileInputs.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\obj\Debug\net9.0\Class24.sourcelink.json
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\obj\Debug\net9.0\Class24.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\obj\Debug\net9.0\refint\Class24.dll
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\obj\Debug\net9.0\Class24.pdb
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\obj\Debug\net9.0\Class24.genruntimeconfig.cache
+F:\Projects\algorithms-and-data-structures\C#\CSharp\Class24\obj\Debug\net9.0\ref\Class24.dll

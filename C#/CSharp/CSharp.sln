@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class22", "Class22\Class22.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class23", "Class23\Class23.csproj", "{35781364-CA4E-45B4-B584-7B9D74D2F908}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class24", "Class24\Class24.csproj", "{B811EB94-E13F-485D-9512-ED29C5511EDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{35781364-CA4E-45B4-B584-7B9D74D2F908}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35781364-CA4E-45B4-B584-7B9D74D2F908}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35781364-CA4E-45B4-B584-7B9D74D2F908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B811EB94-E13F-485D-9512-ED29C5511EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B811EB94-E13F-485D-9512-ED29C5511EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B811EB94-E13F-485D-9512-ED29C5511EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B811EB94-E13F-485D-9512-ED29C5511EDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
