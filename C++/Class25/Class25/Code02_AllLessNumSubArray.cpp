@@ -36,7 +36,7 @@ namespace Code02_AllLessNumSubArray
 						break;
 					}
 				}
-
+  
 			}
 
 			return count;
